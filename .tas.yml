@@ -16,3 +16,4 @@ postMerge:
     # glob-patterns to discover tests to run in case of postMerge
     - "**/*.test.js"
 
+
